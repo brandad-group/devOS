@@ -16,7 +16,7 @@ todo:
  - Akzeptanzkriterien einfügen - wo?
 ---
 
-# **devOS** – an operating system of excellence
+# **devOS** – an operating system of excellence™
 
 ## ↪️ **#ARBEITEN:>** Wir sind produktiv, weil wir\_
 
