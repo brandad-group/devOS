@@ -16,7 +16,7 @@ todo:
  - Akzeptanzkriterien einfügen - wo?
 ---
 
-# **devOS** – an operating system of excellence™
+# **devOS** – an operating system of excellence
 
 ## ↪️ **#ARBEITEN:>** Wir sind produktiv, weil wir\_
 
@@ -49,20 +49,20 @@ todo:
 ### ... Diversität als eine Stärke feiern.
 
 - Ich werde mit meinem fachlichen und persönlichen Hintergrund gesehen – und wertgeschätzt.
-- Ich bin, wie ich bin und muss mich auch nicht verstellen – ob introvertiert oder extrovertiert, Eule oder Lärche, Familienmensch oder Partylöwe.
+- Ich bin, wie ich bin und muss mich auch nicht verstellen – ob introvertiert oder extrovertiert, Eule oder Lerche, Familienmensch oder Partylöwe.
 - Meine Meinung zählt – auch und erst recht, wenn sie mal von den anderen abweicht.
-- Ich bin Teil eines crossfunktionalen Teams.
+- Ich bin Teil eines cross-funktionalen Teams.
 
 ### ... die Werte Klarheit und Transparenz mit Leben füllen.
 
-- Ich weiß stets ganz genau, was von mir erwartet nicht – und was nicht.
+- Ich weiß stets ganz genau, was von mir erwartet wird – und was nicht.
 - Ich muss mich nicht um Büropolitik scheren – da die Kommunikation immer transparent ist, weiß ich immer genau Bescheid, was läuft.
 
 ## ↪️ **#LERNEN:>** Wir wissen morgen mehr als heute, weil wir \_ 
 
 ### ... genug Zeit und Budget fürs Lernen und Entwickeln haben.
 
-- Ich verwendet 15 % meiner Zeit aufs Lernen und Weiterbilden.
+- Ich verwende 15 % meiner Zeit aufs Lernen und Weiterbilden.
 - Ich entscheide über meine Weiterbildungsmaßnahmen selbst – ob Konferenz, Seminar oder Schulung.
 - Ich reise während meiner Arbeits- und nicht während meiner Freizeit.
 - Ich habe Unterstützung, wenn es um Planung und Buchung von Maßnahmen und Reisen geht.
