@@ -140,7 +140,8 @@ todo:
 
 - Nach einer Pair-Programming-Session haben mein Gegenüber und ich mehr Wissen als vorher.
 - Ich suche mir Gleichgesinnte zu Fokusthemen im und außerhalb des Unternehmens – zum Beispiel, aber nicht nur in Communities of Practice, Open-Source-Projekten oder Meetups. 
-- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein. Ich zeige mich selbstbewusst zu meinen Expertenthemen – und schrecke auch vor Rampenlicht nicht zurück.
+- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein.
+- Ich zeige mich selbstbewusst zu meinen Expertenthemen – und schrecke auch vor Rampenlicht nicht zurück.
 - Ich helfe Kunden und Partnern aktiv durch das Einbringen meiner Expertise, denn Information ist keine Währung.
 
 ### ... selbstbewusste Devs by Heart sind.
