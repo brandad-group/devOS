@@ -22,7 +22,7 @@ todo:
 
 ### ... ein Umfeld haben, das Höchstleistungen ermöglicht.
 
-- Meine Werkzeuge wähle ich selbst.
+- Meine Werkzeuge in der BRANDAD Welt wähle ich selbst.
 - Mein Heimbüro verbessere ich mit wenigen Klicks im Homeoffice-Shop.
 - Ich finde im Headquarter in Fürth top ausgestattete Räumlichkeiten vor.
 
@@ -37,7 +37,7 @@ todo:
 ### ... Selbstorganisation leben und lieben.
 
 - Gemeinsam mit meinem Team treffen wir wichtige Entscheidungen selbst.
-- Ich lebe leben und erlebe echte™ agile Software-Entwicklung.
+- Ich lebe und erlebe echte™ Agilität.
 - Ich finde Unterstützung durch „Servant Leader“ wo immer nötig.
 
 ### ... unser Team als sicheren Hafen haben.
@@ -48,10 +48,10 @@ todo:
 
 ### ... Diversität als eine Stärke feiern.
 
+- Ich bin Teil eines cross-funktionalen Teams.
+- Meine Meinung zählt – auch und erst recht, wenn sie mal von den anderen abweicht.
 - Ich werde mit meinem fachlichen und persönlichen Hintergrund gesehen – und wertgeschätzt.
 - Ich bin, wie ich bin und muss mich auch nicht verstellen – ob introvertiert oder extrovertiert, Eule oder Lerche, Familienmensch oder Partylöwe.
-- Meine Meinung zählt – auch und erst recht, wenn sie mal von den anderen abweicht.
-- Ich bin Teil eines cross-funktionalen Teams.
 
 ### ... die Werte Klarheit und Transparenz mit Leben füllen.
 
@@ -77,14 +77,14 @@ todo:
 
 - Ich muss nie alleine lernen – in gemeinsamen Lerninitiativen erfahre ich Unterstützung und Impulse.
 - Falls ich Wissen weitergeben und mich so zum Experten in meinem Gebiet entwickeln möchte, finde ich die Möglichkeit, den Support und die Formate dafür vor.
-- Falls ich mich über die Unternehmensgrenzen hinaus mit Devs austauschen und in gemeinsamen Projekten wachsen möchte, finde ich den Rückhalt – erst recht, wenn es um Open-Source-Initiativen geht.
+- Falls ich mich über die Unternehmensgrenzen hinaus mit Devs austauschen und in gemeinsamen internen oder externen Projekten wachsen möchte, finde ich den Rückhalt – erst recht, wenn es um Open-Source-Initiativen geht.
 
 ### ... gestalten unsere Lernkultur angebotsbasiert – auf absolut freiwilliger Basis.
 
-- Ich lasse mich nicht drängen und entscheide selbst, wie mein persönlicher Lernweg aussieht.
+- Ich entscheide selbst, wie mein persönlicher Lernweg aussieht.
 - Ich nutze die vielen verfügbaren Angebote, und gebe konstruktive Impulse, wenn mir mal etwas fehlt.
 
-### ... veranstalten eigene Wissensevents.
+### ... veranstalten eigene Wissensevents und supporten andere.
 
 - Ich nehme teil an den regelmäßigen Dev Conventions, und arbeite bei diesen Gelegenheiten teamübergreifend mit Entwicklerinnen und Entwicklern an spannenden Themen.
 - Ich habe kurze Wege zu hochkarätigen Veranstaltungen, weil mein Arbeitgeber selbst oft Meet-ups, Camps und Konferenzen organisiert oder hostet.
@@ -98,13 +98,13 @@ todo:
 
 ### ... soziale Sicherheit für uns unverzichtbar ist.
 
-- Meine Vergütung ist überdurchschnittlich.
+- Ich fühle mich fair bezahlt.
 - Mein Arbeitsplatz ist sicher und krisenfest.
 
 ### ... Familie und Beruf für uns vereinbar sind.
 
 - Ich entscheide, wie die Mischung aus Remote- und Präsenzarbeit für mich am besten funktioniert.
-- Ich bin flexibel und muss nicht auf Biegen und Brechen starre Arbeitszeiten in meinen Alltag quetschen.
+- Ich bin in Absprache mit meinem Team flexibel und muss nicht auf Biegen und Brechen starre Arbeitszeiten in meinen Alltag quetschen.
 - Ich genieße das Vertrauen meines Teams und meines Arbeitgebers, wenn es um Arbeitszeiten geht – ich buche Zeiten auf Vertrauensbasis, ganz ohne Stechuhr oder Kontrolle.
 
 ### ... Slacktime für jede und jeden bei uns selbstverständlich ist.
@@ -112,6 +112,7 @@ todo:
 - Meine An- und Abreisezeiten nach Fürth gehören zur bezahlten Slacktime.
 - Unterhaltungen mit Kolleginnen und Kollegen in der (virtuellen) Kaffeeküche sind mir wichtig.
 - Wenn mein Kopf qualmt, entspanne ich kurz – auch während der Arbeitszeit.
+- Auf die Teamevents und Afterworks mit anderen BAStis freue ich mich immer ganz besonders.
 
 ### ... Benefits Spaß und uns das Leben leichter machen.
 
@@ -124,13 +125,12 @@ todo:
 - Ich und mein Team hinterfragen, fordern heraus, unterstützen. So machen wir jedes Produkt besser.
 - Ich und mein Team haben die Zeit, uns kennenzulernen, einzuspielen und einzuarbeiten – in Kundenprojekte gehen wir erst, wenn wir dafür reif sind.
 
-### ... als Team Game-Changer für unsere Kunden sind.
+### ... als Team potenzielle Game-Changer für unsere Kunden sind.
 
 - Ich bringe mit meinem Team nicht nur Know-how und Entwicklungspower mit ins Kundenunternehmen, sondern auch Arbeitskultur.
 
 ### ... Software Craftsmanship nicht als nice to have, sondern als Basis unserer Arbeit sehen.
 
-- Ich strebe ganz selbstverständlich nach Clean Code.
 - I never ship Shit.
 - Mein Code ist stets gut les- und wartbar.
 - Mein Code löst Probleme, statt neue zu erschaffen.
@@ -140,13 +140,16 @@ todo:
 
 - Nach einer Pair-Programming-Session haben mein Gegenüber und ich mehr Wissen als vorher.
 - Ich suche mir Gleichgesinnte zu Fokusthemen im und außerhalb des Unternehmens – zum Beispiel, aber nicht nur in Communities of Practice, Open-Source-Projekten oder Meetups. 
-- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein. Ich zeige mich selbstbewusst zu meinen Expertenthemen – schrecke auch vor Rampenlicht nicht zurück.
+- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein. Ich zeige mich selbstbewusst zu meinen Expertenthemen – ich helfe Kunden und Partnern aktiv durch das Einbringen meiner Expertise, denn Information ist keine Währung.
+- schrecke auch vor Rampenlicht nicht zurück.
 
 ### ... selbstbewusste Devs by Heart sind.
 
 - Ich schreibe und ändere Code selbstbewusst und eigenverantwortlich.
 - Ich gehe keine Kompromisse ein, wenn es um die Qualität in meiner Arbeit geht. Die Zeit dafür fordere ich aktiv ein.
 - Ich bin keine Immer-Nickerin und kein Dauernd-Ja-Sager – ich bringe meine fachkundige Meinung konstruktiv und zum Wohle von Kunde und Produkt ein, auch wenn sie kontrovers scheint.
+- Ich zeige Gesicht beim Kunden und im Team - egal ob im persönlichen Kontakt oder vor der Kamera.
+- Angstfrei Feedback vom Kunden einzuholen ist für mich selbstverständlich - schließlich hilft mir das bei meiner persönlichen Entwicklung.
 
 ### ... ein Growth Mindset haben, das unseren hohen Wirkungsgrad auch in Zukunft sicherstellt.
 
