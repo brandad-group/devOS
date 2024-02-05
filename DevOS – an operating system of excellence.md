@@ -58,7 +58,7 @@ todo:
 - Ich weiß stets ganz genau, was von mir erwartet wird – und was nicht.
 - Ich muss mich nicht um Büropolitik scheren – da die Kommunikation immer transparent ist, weiß ich immer genau Bescheid, was läuft.
 
-## ↪️ **#LERNEN:>** Wir wissen morgen mehr als heute, weil wir \_ 
+## ↪️ **#LERNEN:>** Wir wissen morgen mehr als heute, weil wir\_ 
 
 ### ... genug Zeit und Budget fürs Lernen und Entwickeln haben.
 
@@ -79,17 +79,17 @@ todo:
 - Falls ich Wissen weitergeben und mich so zum Experten in meinem Gebiet entwickeln möchte, finde ich die Möglichkeit, den Support und die Formate dafür vor.
 - Falls ich mich über die Unternehmensgrenzen hinaus mit Devs austauschen und in gemeinsamen internen oder externen Projekten wachsen möchte, finde ich den Rückhalt – erst recht, wenn es um Open-Source-Initiativen geht.
 
-### ... gestalten unsere Lernkultur angebotsbasiert – auf absolut freiwilliger Basis.
+### ... unsere Lernkultur angebotsbasiert gestalten – auf absolut freiwilliger Basis.
 
 - Ich entscheide selbst, wie mein persönlicher Lernweg aussieht.
 - Ich nutze die vielen verfügbaren Angebote, und gebe konstruktive Impulse, wenn mir mal etwas fehlt.
 
-### ... veranstalten eigene Wissensevents und supporten andere.
+### ... eigene Wissensevents veranstalten und andere supporten.
 
 - Ich nehme teil an den regelmäßigen Dev Conventions, und arbeite bei diesen Gelegenheiten teamübergreifend mit Entwicklerinnen und Entwicklern an spannenden Themen.
 - Ich habe kurze Wege zu hochkarätigen Veranstaltungen, weil mein Arbeitgeber selbst oft Meet-ups, Camps und Konferenzen organisiert oder hostet.
 
-### ... holen uns kontinuierlich Feedback von allen Seiten – das ist für uns selbstverständlich und unverzichtbar.
+### ... uns kontinuierlich Feedback von allen Seiten holen – das ist für uns selbstverständlich und unverzichtbar.
 
 - Ich bin Teil der Konversation – die Menschen um mich herum reden MIT mir statt ÜBER mich.
 - Ich gebe und erhalte regelmäßig wertschätzendes Feedback und Impulse.
