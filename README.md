@@ -2,7 +2,7 @@
 
 ## als Mindmap
 
-Interaktive devOS-Mindmap direkt im Browser betrachten: https://brandad-systems.github.io/devOS/
+Interaktive devOS-Mindmap direkt im Browser betrachten: https://brandad-group.github.io/devOS/
 
 ## Änderungen durchführen (maintainer)
   1. Datei DevOS – an operating system of excellence.md ändern
