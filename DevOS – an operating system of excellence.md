@@ -26,10 +26,10 @@ todo:
 - Mein Heimbüro verbessere ich mit wenigen Klicks im Homeoffice-Shop.
 - Ich finde im Headquarter in Fürth top ausgestattete Räumlichkeiten vor.
 
-### ... Karriere machen, ohne Leitern hochzusteigen.
+### ... persönliche Weiterentwicklung erleben, ohne Leitern hochzusteigen.
 
-- Mir sind Schulterklappen nicht wichtig – dafür Entwicklungsmöglichkeiten um so mehr.
-- Ich gestalte die Hierarchie aktiv mit – weil in den wichtigsten Fragen nicht der- oder diejenige mit Macht, sondern der- oder diejenige mit Kompetenz entscheiden sollte.
+- Mir sind Macht und Position nicht wichtig – dafür Entwicklungsmöglichkeiten um so mehr.
+- Ich gestalte die Organisation aktiv mit – weil in den wichtigsten Fragen nicht der- oder diejenige mit Macht, sondern der- oder diejenige mit Kompetenz entscheiden sollte.
 - Ich habe den Raum und alle Chancen, niemals aber den Zwang, mich zum Kern eines neuen Teams weiterzuentwickeln. 
 - Ich kann meine tollen Ideen auch tatsächlich umsetzen – und bevor ich mich damit selbstständig mache, suchen wir gemeinsam nach einer Verwirklichungsmöglichkeit.
 - Ich entwickle mich zu einem führenden Spezialisten in meinem Fachgebiet.
@@ -62,7 +62,7 @@ todo:
 
 ### ... genug Zeit und Budget fürs Lernen und Entwickeln haben.
 
-- Ich verwende 15 % meiner Zeit aufs Lernen und Weiterbilden.
+- Ich verwende bis zu 15 % meiner Zeit aufs Lernen und Weiterbilden.
 - Ich entscheide über meine Weiterbildungsmaßnahmen selbst – ob Konferenz, Seminar oder Schulung.
 - Ich reise während meiner Arbeits- und nicht während meiner Freizeit.
 - Ich habe Unterstützung, wenn es um Planung und Buchung von Maßnahmen und Reisen geht.
@@ -117,6 +117,8 @@ todo:
 ### ... Benefits Spaß und uns das Leben leichter machen.
 
 ### ... Gesundheit für Team und Personen über allem steht.
+- Ich fühle mich nicht gezwungen, krank zu arbeiten, und mein Team gibt mir Rückendeckung.
+- Ich bleibe in Balance, weil ich auch private Themen mit “ins Büro” bringen kann und dabei unterstützt werde.
 
 ## ↖️ **#WIRKEN:>** Wir machen den Unterschied, indem wir\_
 
@@ -140,7 +142,8 @@ todo:
 
 - Nach einer Pair-Programming-Session haben mein Gegenüber und ich mehr Wissen als vorher.
 - Ich suche mir Gleichgesinnte zu Fokusthemen im und außerhalb des Unternehmens – zum Beispiel, aber nicht nur in Communities of Practice, Open-Source-Projekten oder Meetups. 
-- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein. Ich zeige mich selbstbewusst zu meinen Expertenthemen – und schrecke auch vor Rampenlicht nicht zurück.
+- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein.
+- Ich zeige mich selbstbewusst zu meinen Expertenthemen – und schrecke auch vor Rampenlicht nicht zurück.
 - Ich helfe Kunden und Partnern aktiv durch das Einbringen meiner Expertise, denn Information ist keine Währung.
 
 ### ... selbstbewusste Devs by Heart sind.
