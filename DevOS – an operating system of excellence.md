@@ -98,7 +98,7 @@ todo:
 
 ### ... soziale Sicherheit für uns unverzichtbar ist.
 
-- Ich fühle mich fair bezahlt.
+- Ich kann sicher sein, dass mein Gehalt proaktiv angepasst wird.
 - Mein Arbeitsplatz ist sicher und krisenfest.
 
 ### ... Familie und Beruf für uns vereinbar sind.
