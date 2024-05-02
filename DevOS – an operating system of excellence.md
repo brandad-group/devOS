@@ -26,7 +26,7 @@ todo:
 - Mein Heimbüro verbessere ich mit wenigen Klicks im Homeoffice-Shop.
 - Ich finde im Headquarter in Fürth top ausgestattete Räumlichkeiten vor.
 
-### ... persönliche Weiterentwicklung erleben, ohne Leitern hochzusteigen.
+### ... persönliche Weiterentwicklung erleben, ohne formale Leitern hochzusteigen.
 
 - Mir sind Macht und Position nicht wichtig – dafür Entwicklungsmöglichkeiten um so mehr.
 - Ich gestalte die Organisation aktiv mit – weil in den wichtigsten Fragen nicht der- oder diejenige mit Macht, sondern der- oder diejenige mit Kompetenz entscheiden sollte.
