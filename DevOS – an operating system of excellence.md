@@ -74,8 +74,9 @@ todo:
 
 ### ... uns als Teil unserer Lernkultur in Lerngruppen organisieren.
 
-- Ich muss nie alleine lernen – in gemeinsamen Lerninitiativen erfahre ich Unterstützung und Impulse.
+- In gemeinsamen Lerninitiativen erfahre ich Unterstützung und Impulse.
 - Falls ich mich zum Experten in meinem Gebiet entwickeln möchte, finde ich die Möglichkeit, den Support und die Formate dafür vor.
+- Ich habe stets die Möglichkeit, mein Wissen in teamübergreifenden sinnvollen Lernprojekten einzubringen und auszubauen
 - Falls ich mich über die Unternehmensgrenzen hinaus mit Devs austauschen und in gemeinsamen internen oder externen Projekten wachsen möchte, finde ich den Rückhalt – erst recht, wenn es um Open-Source-Initiativen geht.
 
 ### ... unsere Lernkultur angebotsbasiert gestalten – auf absolut freiwilliger Basis.
