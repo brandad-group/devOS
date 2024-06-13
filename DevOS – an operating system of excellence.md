@@ -64,19 +64,18 @@ todo:
 
 - Ich verwende bis zu 15 % meiner Zeit aufs Lernen und Weiterbilden.
 - Ich entscheide über meine Weiterbildungsmaßnahmen selbst – ob Konferenz, Seminar oder Schulung.
-- Ich reise während meiner Arbeits- und nicht während meiner Freizeit.
 - Ich habe Unterstützung, wenn es um Planung und Buchung von Maßnahmen und Reisen geht.
 - Ich habe ein persönliches, jährliches Lernbudget, über dessen Verwendungen ich selbst entscheide.
 
 ### ... stärkenorientierte Coaching-Angebote nutzen, die jede und jeden von uns individuell fördern.
 
 - Ich entwickle meine Fachlichkeit, aber auch meine Persönlichkeit weiter.
-- Ich nutze gezieltes Coaching, um meine individuellen Talente in Stärken zu entwickeln.
+- Ich bekomme bei Bedarf Unterstützung von einem Coach, um meinen Lernweg zu finden und meine Stärken zu entwickeln.
 
 ### ... uns als Teil unserer Lernkultur in Lerngruppen organisieren.
 
 - Ich muss nie alleine lernen – in gemeinsamen Lerninitiativen erfahre ich Unterstützung und Impulse.
-- Falls ich Wissen weitergeben und mich so zum Experten in meinem Gebiet entwickeln möchte, finde ich die Möglichkeit, den Support und die Formate dafür vor.
+- Falls ich mich zum Experten in meinem Gebiet entwickeln möchte, finde ich die Möglichkeit, den Support und die Formate dafür vor.
 - Falls ich mich über die Unternehmensgrenzen hinaus mit Devs austauschen und in gemeinsamen internen oder externen Projekten wachsen möchte, finde ich den Rückhalt – erst recht, wenn es um Open-Source-Initiativen geht.
 
 ### ... unsere Lernkultur angebotsbasiert gestalten – auf absolut freiwilliger Basis.
@@ -109,7 +108,7 @@ todo:
 
 ### ... Slacktime für jede und jeden bei uns selbstverständlich ist.
 
-- Meine An- und Abreisezeiten nach Fürth gehören zur bezahlten Slacktime.
+- Ich reise während meiner Arbeits- und nicht während meiner Freizeit.
 - Unterhaltungen mit Kolleginnen und Kollegen in der (virtuellen) Kaffeeküche sind mir wichtig.
 - Wenn mein Kopf qualmt, entspanne ich kurz – auch während der Arbeitszeit.
 - Auf die Teamevents und Afterworks mit anderen BAStis freue ich mich immer ganz besonders.
