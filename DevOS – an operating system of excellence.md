@@ -82,11 +82,13 @@ todo:
 ### ... unsere Lernkultur angebotsbasiert gestalten – auf absolut freiwilliger Basis.
 
 - Ich entscheide selbst, wie mein persönlicher Lernweg aussieht.
+- Ich wähle die Lernplattform, die am besten zu mir und meinen Bedürfnissen passt.
 - Ich nutze die vielen verfügbaren Angebote, und gebe konstruktive Impulse, wenn mir mal etwas fehlt.
-
+- Es ist für mich selbstverständlich, nach einem externen Angebot mein neu erworbendes Wissen ins Unternehmen zu tragen.
+  
 ### ... eigene Wissensevents veranstalten und andere supporten.
 
-- Ich nehme teil an den regelmäßigen Dev Conventions, und arbeite bei diesen Gelegenheiten teamübergreifend mit Entwicklerinnen und Entwicklern an spannenden Themen.
+- Ich nehme teil an den regelmäßigen BRANDAD Conventions, und arbeite bei diesen Gelegenheiten teamübergreifend mit Entwicklerinnen und Entwicklern an spannenden Themen.
 - Ich habe kurze Wege zu hochkarätigen Veranstaltungen, weil mein Arbeitgeber selbst oft Meet-ups, Camps und Konferenzen organisiert oder hostet.
 
 ### ... uns kontinuierlich Feedback von allen Seiten holen – das ist für uns selbstverständlich und unverzichtbar.
