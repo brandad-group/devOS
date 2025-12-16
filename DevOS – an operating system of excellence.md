@@ -111,7 +111,8 @@ todo:
 
 ### ... Slacktime für jede und jeden bei uns selbstverständlich ist.
 
-- Ich reise während meiner Arbeits- und nicht während meiner Freizeit.
+- Ich reise während meiner Arbeits- und nicht während meiner Freizeit. (Wenn ich > 100 km vom Hauptsitz der BRANDAD Development GmbH entfernt wohne)
+- Bei Konferenzen, Schulungen und sonstigen Weiterbildungen reise ich zu 50 % auf Arbeitszeit. 
 - Unterhaltungen mit Kolleginnen und Kollegen in der (virtuellen) Kaffeeküche sind mir wichtig.
 - Wenn mein Kopf qualmt, entspanne ich kurz – auch während der Arbeitszeit.
 - Auf die Teamevents und Afterworks mit anderen BAStis freue ich mich immer ganz besonders.
